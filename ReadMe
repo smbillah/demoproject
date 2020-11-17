@@ -1,0 +1,7 @@
+## How to run this project
+1. Get JDK 1.8
+2. Get NB 8.2
+3. Get DerbyDB v10.
+
+
+## First, build, run FXMLDocumentController.java

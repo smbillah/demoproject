@@ -27,6 +27,10 @@ public class FXMLDocumentController implements Initializable {
         label.setText("Hello World!");
     }
     
+    private void doSomething(){    
+        // calculating the distance 
+    }
+    
     @Override
     public void initialize(URL url, ResourceBundle rb) {
         // TODO

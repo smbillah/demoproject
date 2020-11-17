@@ -37,7 +37,7 @@ public class FXMLDocumentController implements Initializable {
         // do seraching 
         // get result in a list
         // return list
-           
+        System.out.println("find by name");   
     }
     
     @Override

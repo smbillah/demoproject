@@ -24,7 +24,16 @@ public class FXMLDocumentController implements Initializable {
     @FXML
     private void handleButtonAction(ActionEvent event) {
         System.out.println("Button clicked!");
+        int abc = 0;
         label.setText("Hello World!");
+    }
+    
+    private void findByName(String query){
+        // do seraching 
+        // get result in a list
+        // return list
+        
+    
     }
     
     @Override
